@@ -13,3 +13,4 @@ O pull puxa o repositório remoto para o repositório local.
 Para unir uma ramificação com a versão definitiva do software (ou com outra ramificação), é necessário mesclar os códigos (merge).
 
 
+No GitHub, as linhas alteradas aparecem en
