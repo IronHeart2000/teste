@@ -14,3 +14,4 @@ Para unir uma ramificação com a versão definitiva do software (ou com outra r
 
 
 No GitHub, as linhas alteradas aparecem en
+asasasaas
