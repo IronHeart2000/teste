@@ -4,14 +4,10 @@ C:\Program Files\Git
 git-branches-merge.png: as bolas em verde são as versões que definitivamente serão adicionadas no software. Elas representam uma linha do tempo do software. Cada bola é uma versão diferente.
 as três bolas azuis são ramificações (branchs), i.e., versões do software que estão sendo desenvolvidas. Essas ramificações não alteram as versões definitivas (bolas verdes) do software. Elas são uma espécie de teste.
 a bola em laranja é uma outra versão de teste do software que foi escrita por outro desenvolvedor.
-
-
-Ao alterar o projeto no computador, o repositório no GitHub não é automaticamente atualizado. Para isso, é necessário salvar as alterações (commit). Essa alteração pode ser direto na linha cronológica principal ou pode ser uma ramificação do projeto. Ao realizar o commit, o repositório remoto não será atualizado. O push é utilizado para alterar o repositório remoto com as alterações que foram feitas no repositório local. O commit altera a versão local.
-O pull puxa o repositório remoto para o repositório local.
-
-
-Para unir uma ramificação com a versão definitiva do software (ou com outra ramificação), é necessário mesclar os códigos (merge).
-
-
-No GitHub, as linhas alteradas aparecem en
-asasasaas
+sdaasdasdasdsd as
+as
+asd
+as
+dsa
+d
+sad
